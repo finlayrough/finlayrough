@@ -6,5 +6,5 @@ JS, Lua
 - 💞️ I’m looking to collaborate on ...
 Possible FiveM assets
 - 📫 How to reach me ...
-Discord: finlay#7677
+Discord: Finlay#7677
 
